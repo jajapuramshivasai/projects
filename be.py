@@ -1,3 +1,5 @@
+##->pip install pyautogui
+
 import pyautogui
 
 ####get the required position of curser at wattsapp type bar
